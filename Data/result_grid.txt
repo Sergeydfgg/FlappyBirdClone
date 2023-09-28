@@ -1,0 +1,2 @@
+Player=Sasha 
+Best score=7 
